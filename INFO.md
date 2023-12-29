@@ -1,3 +1,6 @@
 git is awesome
-new line
-experiment with amend
+also the shit
+
+
+Something very important
+Something very important two
